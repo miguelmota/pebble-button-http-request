@@ -1,0 +1,27 @@
+{
+  "uuid": "4c74dc80-a54e-4d0b-9bab-fd355d364334",
+  "longName": "Button HTTP Request",
+  "shortName": "Button HTTP Request",
+  "companyName": "Moogs",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "appKeys": {
+    "status": 0,
+    "message": 1,
+    "ip": 2
+  },
+  "capabilities": [
+    ""
+  ],
+  "watchapp": {
+    "watchface": false
+  },
+  "resources": {
+    "media": []
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt"
+  ]
+}
